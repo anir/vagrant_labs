@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/www":{"guestpath":"/vagrant/www","hostpath":"D:/vagrant_labs/ngnix/www","disabled":false,"__vagrantfile":true},"/vagrant/sites-enabled":{"guestpath":"/vagrant/sites-enabled","hostpath":"D:/vagrant_labs/ngnix/sites-enabled","disabled":false,"__vagrantfile":true}}}
